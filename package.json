@@ -4,10 +4,10 @@
   "version": "0.1.2",
   "author": "Rafael Goulart",
   "contributors": [
-	{
-	  "name": "Patrick Lavigne",
-	  "email": "me@patrick.codes"
-	}
+    {
+      "name": "Patrick Lavigne",
+      "email": "me@patrick.codes"
+    }
   ],
   "homepage": "https://github.com/PMLavigne/owncloud-bootswatch-themes.git",
   "license": "MIT",
