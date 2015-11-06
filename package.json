@@ -1,13 +1,19 @@
 {
   "name": "OwnCloud-Bootswatch-Themes",
   "description": "OwnCloud Bootswatch Themes is a collection of themes for Bootstrap.",
-  "version": "0.1.0",
+  "version": "0.1.4",
   "author": "Rafael Goulart",
-  "homepage": "owncloud-bootswatch",
+  "contributors": [
+    {
+      "name": "Patrick Lavigne",
+      "email": "me@patrick.codes"
+    }
+  ],
+  "homepage": "https://github.com/PMLavigne/owncloud-bootswatch-themes.git",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rafaelgou/owncloud-bootswatch.git"
+    "url": "https://github.com/PMLavigne/owncloud-bootswatch-themes.git"
   },
   "engines": {
     "node": ">= 0.8.11"
